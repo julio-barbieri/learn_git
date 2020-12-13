@@ -6,7 +6,7 @@ def Carro(marca, modelo, ano):
 
 
 def CalculaMedia(km, litros):
-    return f"Seu veículo faz em média {km / litros} quilometros por litro";
+    return f"Seu veículo faz em média {km / litros} quilometros por litro"
 
 print(Pessoa("Julio"))
 print(Carro("Fiat", "Argo", "2021"))
